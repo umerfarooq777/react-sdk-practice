@@ -1,6 +1,6 @@
 {
-  "name": "react-sdk-practice",
-  "version": "0.0.1",
+  "name": "@umerfarooq777/react-sdk-practice",
+  "version": "0.0.2",
   "description": "react-sdk-practice mode test",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
@@ -22,7 +22,11 @@
     "react": "^18.2.0",
     "rollup": "^4.4.0",
     "rollup-plugin-dts": "^6.1.0",
+    "rollup-plugin-postcss": "^4.0.2",
     "tslib": "^2.6.2",
     "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github/umerfarooq777"
   }
 }
