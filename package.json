@@ -1,6 +1,6 @@
 {
   "name": "@umerfarooq777/react-sdk-practice",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react-sdk-practice mode test",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",

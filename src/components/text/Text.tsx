@@ -1,9 +1,9 @@
 import React from 'react'
-interface ButtonProps {
+interface TextProps {
     text: string;
 }
 
-const Text = (props: ButtonProps) => {
+const Text = (props: TextProps) => {
     return (<p>{props.text}</p>);
 }
 
